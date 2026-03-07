@@ -83,17 +83,45 @@
 // document.write(`Total cost to buy ${ticketBuy} tickets to a movie is ${totalCost} PKR`)
 
 // Q #5
+// document.write(`Table of 4`);
+// document.write("<br />");
+// let table = 4;
+// let multiple = 1;
 
-// let table = 4
-// multiple1 = table * 1
-// multiple2 = table * 2
-// multiple3 = table * 3
-// multiple4 = table * 4
-// multiple5 = table * 5
-// multiple6 = table * 6
-// multiple7 = table * 7
-// multiple8 = table * 8
-// multiple9 = table * 9
-// multiple10 = table * 10
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
 
-// document.write(`Table of 4 <br /> 4x1 = ${multiple1} <br /> 4x2 = ${multiple2} <br /> 4x3 = ${multiple3} <br /> 4x4 = ${multiple4} <br /> 4x5 = ${multiple5} <br /> 4x6 = ${multiple6} <br /> 4x7 = ${multiple7} <br /> 4x8 = ${multiple8} <br /> 4x9 = ${multiple9} <br /> 4x10 = ${multiple10}`)
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
+// document.write("<br />");
+
+// multiple++;
+// document.write(`${table} x ${multiple} = ${table * multiple}`);
