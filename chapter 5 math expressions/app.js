@@ -125,3 +125,21 @@
 
 // multiple++;
 // document.write(`${table} x ${multiple} = ${table * multiple}`);
+
+
+// let num = +prompt("enter a number")
+// if(num%5===0){
+//     alert(`${num} is a multiple of 5`)
+// }
+
+// else{
+//     alert(`${num} is not a multiple of 5`)
+// }
+
+// let city = prompt("enter your city name")
+// if(city==="karachi"){
+//     alert(`welcome to the city of lights`)
+// }
+// else{
+//     alert(`karachi a jao`)
+// }
